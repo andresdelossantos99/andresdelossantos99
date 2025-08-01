@@ -28,7 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <!-- Next.js (white for dark backgrounds) -->
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" alt="nextjs" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
@@ -37,9 +36,9 @@
 
   <!-- Backend stack -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/typeorm" height="40" alt="typeorm" />
+  <img src="https://cdn.simpleicons.org/typeorm/ffffff" height="40" alt="typeorm" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger" />
 
@@ -55,26 +54,46 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/radixui" height="40" alt="radix-ui" />
+  <img src="https://cdn.simpleicons.org/radixui/ffffff" height="40" alt="radix-ui" />
 
   <!-- Integraciones -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudinary" height="40" alt="cloudinary" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mapbox" height="40" alt="mapbox" />
+  <img src="https://cdn.simpleicons.org/mapbox/ffffff" height="40" alt="mapbox" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/axios" height="40" alt="axios" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mercadopago" height="40" alt="mercado-pago" />
+  <!-- Mercado Pago con tamaño fijo 40x40 -->
+  <img src="https://cdn.simpleicons.org/mercadopago/00B1EA" height="40" width="40" alt="mercado-pago" style="vertical-align: middle;" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase" />
 
   <!-- Tools -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="github" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+
+  <!-- Collaboration & AI -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anydesk/EF443B" height="40" alt="anydesk" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="40" alt="obsidian" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/openai/ffffff" height="40" alt="openai" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anthropic/ffffff" height="40" alt="anthropic" />
 </div>
+
+
+
 
 
 ###
