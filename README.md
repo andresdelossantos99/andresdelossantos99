@@ -1,6 +1,6 @@
-# Hola 👋, me llamo Andres De Los Santos
+# Hola 👋 soy Andres De Los Santos
 
-### Soy desarrollador full stack de Argentina
+### Desarrollador full stack de Argentina
   
 
 - 🔭 Actualmente trabajo en henry, roots cooperativa y proyectos freelance 
