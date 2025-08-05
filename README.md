@@ -5,8 +5,11 @@
 
 - 🔭 Actualmente trabajo en henry, roots cooperativa y proyectos freelance 
   
+- 🔭 Actualmente vivo en La Plata Buenos Aires Argentina
 
 - 🏄‍♀️ Amante de la playa y las olas
+  
+ - 🏄‍♀️ Contacto 🗣 andresdelossantos@gmail.com
   
 
 - ❓ Preguntame sobre el stack MERN   
